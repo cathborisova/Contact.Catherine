@@ -19,6 +19,6 @@ li a:hover {
    background-color: grey;
 }
 
-li a: img {
+li a:img {
   text-align: right;
 }
