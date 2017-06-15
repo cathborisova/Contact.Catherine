@@ -11,7 +11,7 @@ h3 {
   font-size: 20px;
 }
 
-.link {
+.hover {
    color: black;
   font-family: monospace;
   font-size: 20px;
@@ -21,4 +21,10 @@ h3 {
 
 .img {
   text-align: left;
+}
+
+.hover2 {
+  color: black;
+  font-family: monospace;
+  font-size: 30px;
 }
