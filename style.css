@@ -1,17 +1,24 @@
 h1 {
   color: black;
   font-family: monospace;
-  font-size: 30px
+  text-align: right;
+  font-size: 30px;
 }
 h3 {
   color: black;
   font-family: monospace;
+  text-align: right;
   font-size: 20px;
 }
   }
 li a:hover {
    color: black;
   font-family: monospace;
-  font-size: 20px
+  font-size: 20px;
+  text-align: right;
    background-color: grey;
+}
+
+li a: img {
+  text-align: right;
 }
